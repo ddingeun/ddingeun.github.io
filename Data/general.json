@@ -1,0 +1,15 @@
+{
+    "content": {
+       "type": "title",
+        "text": "창조적인 삶을 살려면 내가 틀릴지도 모른다는 공포를 버려야 한다.",
+        "style": {
+          "color": "black",
+          "fontWeight": "light",
+          "fontSize": 24,
+          "paddingLeft": 28,
+          "paddingRight": 28,
+          "textAlign": "center",
+          "marginTop": -600
+        }
+    }
+}
