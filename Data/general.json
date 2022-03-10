@@ -1,15 +1,34 @@
-{
-    "content": {
-       "type": "title",
-        "text": "창조적인 삶을 살려면 내가 틀릴지도 모른다는 공포를 버려야 한다.",
-        "style": {
-          "color": "black",
-          "fontWeight": "light",
-          "fontSize": 24,
-          "paddingLeft": 28,
-          "paddingRight": 28,
-          "textAlign": "center",
-          "marginTop": -600
+[
+    {
+      "id": "2dfij39isjdfo2js",
+      "backgroundUri": "https://images.unsplash.com/photo-1646278609910-a5c82efdbef4",
+      "tags": [
+        "일반"
+      ],
+      "contents": [
+        {
+          "type": "title",
+          "text": "창조적인 삶을 살려면 내가 틀릴지도 모른다는 공포를 버려야 한다.",
+          "style": {
+            "color": "black",
+            "fontWeight": "light",
+            "fontSize": 24,
+            "paddingLeft": 28,
+            "paddingRight": 28,
+            "textAlign": "center",
+            "marginTop": -600
+          }
+        },
+        {
+          "type": "author",
+          "text": "미상",
+          "style": {
+            "color": "black",
+            "fontWeight": "bold",
+            "marginTop": 10,
+            "fontSize": 20
+          }
         }
+      ]
     }
-}
+]
